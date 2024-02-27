@@ -1,4 +1,4 @@
-/* This ATM will handle only specific accounts (pin) listed below:
+/* This ATM will handle only a specific accounts (pin) listed below:
  1520,2530,3540,4550,5560,6570,7580,8590.*/
 #include<stdio.h>
 int main()
